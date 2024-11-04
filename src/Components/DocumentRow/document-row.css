@@ -1,0 +1,4 @@
+.btn-hover-document-row:hover {
+  background-color: var(--primary-5) !important;
+  border-color: var(--primary) !important;
+}
